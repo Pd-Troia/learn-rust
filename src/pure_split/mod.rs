@@ -1,5 +1,3 @@
-use std::usize;
-
 pub fn pure_split(str:&String,ch:char)->Vec<&str>{
     let mut i = 0;
     let mut j = 0;
